@@ -81,7 +81,11 @@
 				<array key="orderedObjects">
 					<object class="IBObjectRecord">
 						<int key="objectID">0</int>
-						<array key="object" id="2"/>
+
+						<array key="object" id="0"/>
+
+						
+
 						<reference key="children" ref="1000"/>
 						<nil key="parent"/>
 					</object>
